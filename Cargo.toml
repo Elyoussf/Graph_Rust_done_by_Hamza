@@ -1,0 +1,6 @@
+[package]
+name = "Graph_Rust_by_Hamza"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
